@@ -1,7 +1,7 @@
 app
 ===
 
-A simple command line tool to append a file to another file
+A simple command line tool to append a file to another file.
 
 Usage:
 
