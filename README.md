@@ -8,4 +8,4 @@ Usage:
     app [SRC] [DST]
 
 To Do
-- Add support for globbing, STDOUT, and STDIN
+- Add support for globbing, STDOUT, and STDIN, and multiple files.
